@@ -1,0 +1,46 @@
+{
+  "trancode": "",
+  "action": "",
+  "code": "",
+  "status": "",
+  "children": [
+    {
+      "name": "",
+      "grade": "",
+      "class": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "grade": "",
+      "class": "",
+      "image": ""
+    }
+  ],
+  "currentVisitorRecord": {
+    "visitName": "",
+    "visitTime": "",
+    "visitReason": "",
+    "name": "",
+    "grade": "",
+    "class": ""
+  },
+  "historyVisitRecords": [
+    {
+      "visitName": "",
+      "visitTime": "",
+      "visitReason": "",
+      "name": "",
+      "grade": "",
+      "class": ""
+    },
+    {
+      "visitName": "",
+      "visitTime": "",
+      "visitReason": "",
+      "name": "",
+      "grade": "",
+      "class": ""
+    }
+  ]
+}
